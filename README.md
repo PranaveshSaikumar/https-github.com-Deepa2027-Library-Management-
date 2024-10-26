@@ -21,13 +21,13 @@ REG NO: 212223040149
 
 <br><br><br><br><br><br>
 ## SEQUENCE DIAGRAM:
-![image](https://github.com/user-attachments/assets/6821ef28-a0ef-40d1-a9a9-61518a7094ce)
+![image](https://github.com/user-attachments/assets/11800b91-c73f-4393-b5be-9448b4096fb3)
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 ## CLASS DIAGRAM:
+![image](https://github.com/user-attachments/assets/6821ef28-a0ef-40d1-a9a9-61518a7094ce)
 
-![image](https://github.com/user-attachments/assets/11800b91-c73f-4393-b5be-9448b4096fb3)
 
 
 
